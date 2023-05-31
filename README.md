@@ -1,7 +1,8 @@
 ## Oi, eu sou o @dougaraujor
-- 🌱 Estou estudando linguagem de programação
-- 🌿 Aprendendo: Python, Dart e Flutter
-- ⚙️ Disposto em colaborar em projetos que auxiliem na minha formação e aprendizado
+- 🌱 Estou estudando programação, afinal a vida de programador é um eterno aprendizado.
+- 🍀 Futuro Desenvolvedor FullStack.
+- 🌿 Aprendendo: Python, Dart e Flutter, SQL, Django, Docker.
+- ⚙️ Disposto em colaborar em projetos que auxiliem na minha formação e aprendizado.
 - 📫 Contate-me: dougaraujor@gmail.com
 
 
