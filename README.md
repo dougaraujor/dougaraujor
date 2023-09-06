@@ -2,6 +2,7 @@
 - 🌱 Estou estudando programação, afinal a vida de programador é um eterno aprendizado.
 - 🍀 Futuro Desenvolvedor BackEnd.
 - 🌿 Aprendendo: Java.
+- 🍁 Tecnologias que possuo conhecimento: Dart,Flutter,Python,SQL e noSQL.
 - ⚙️ Disposto em colaborar em projetos que auxiliem na minha formação e aprendizado.
 - 📫 Contate-me: dougaraujor@gmail.com
 
