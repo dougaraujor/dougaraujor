@@ -16,5 +16,5 @@
   <a href="https://github.com/dougaraujor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougaraujor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaraujor&layout=compact&langs_count=7&theme=dracula"/>
-
+  ![Snake animation](https://github.com/dougaraujor/dougaraujor/blob/output/github-contribution-grid-snake.svg)
 
