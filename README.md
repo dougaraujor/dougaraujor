@@ -5,6 +5,7 @@
 - 🍁 Tecnologias que possuo conhecimento: Dart,Flutter,Python,SQL e noSQL.
 - ⚙️ Disposto em colaborar em projetos que auxiliem na minha formação e aprendizado.
 
+## Contatos:
  <div>
 
 <a href="https://instagram.com/suchdouge" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
