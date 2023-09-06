@@ -14,4 +14,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougaraujor&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+
